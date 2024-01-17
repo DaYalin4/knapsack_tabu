@@ -159,3 +159,4 @@ class ProblemaMochilaMod:
 
     # Retornar la mejor solución encontrada junto con información adicional
         return X_best, self.utilidad(X_best), self.num_solucion(X_best), Curl_W
+#holaaaaa
